@@ -1,0 +1,6 @@
+{
+  "name": "NASA Microgravity Fire Safety SI",
+  "description": "Interactive Super Intelligence dashboard that summarizes, ranks, and honestly interprets NASA microgravity combustion experiments (Saffire, BASS-II, FLEX) for Moon and Mars habitat fire safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
